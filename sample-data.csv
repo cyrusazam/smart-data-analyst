@@ -1,0 +1,51 @@
+Date,Product,Category,Region,Sales,Units,Price
+2023-01-15,Laptop,Electronics,North,1200.50,2,600.25
+2023-01-16,Smartphone,Electronics,South,800.75,3,266.92
+2023-01-17,Tablet,Electronics,East,450.25,1,450.25
+2023-01-18,Headphones,Electronics,West,120.00,4,30.00
+2023-01-19,Monitor,Electronics,North,350.50,1,350.50
+2023-01-20,Keyboard,Electronics,South,75.25,3,25.08
+2023-01-21,Mouse,Electronics,East,45.75,5,9.15
+2023-01-22,Printer,Electronics,West,250.00,1,250.00
+2023-01-23,Speaker,Electronics,North,180.50,2,90.25
+2023-01-24,Charger,Electronics,South,35.25,7,5.04
+2023-01-25,T-shirt,Clothing,East,25.99,10,2.60
+2023-01-26,Jeans,Clothing,West,45.50,5,9.10
+2023-01-27,Sweater,Clothing,North,60.25,3,20.08
+2023-01-28,Jacket,Clothing,South,120.75,2,60.38
+2023-01-29,Socks,Clothing,East,12.50,15,0.83
+2023-01-30,Hat,Clothing,West,18.99,8,2.37
+2023-01-31,Scarf,Clothing,North,22.50,6,3.75
+2023-02-01,Gloves,Clothing,South,15.75,9,1.75
+2023-02-02,Shoes,Footwear,East,85.99,3,28.66
+2023-02-03,Boots,Footwear,West,110.50,2,55.25
+2023-02-04,Sandals,Footwear,North,35.25,4,8.81
+2023-02-05,Sneakers,Footwear,South,95.75,3,31.92
+2023-02-06,Slippers,Footwear,East,25.50,6,4.25
+2023-02-07,Loafers,Footwear,West,75.99,2,38.00
+2023-02-08,Heels,Footwear,North,65.50,1,65.50
+2023-02-09,Flats,Footwear,South,45.25,3,15.08
+2023-02-10,Sofa,Furniture,East,850.00,1,850.00
+2023-02-11,Table,Furniture,West,350.50,2,175.25
+2023-02-12,Chair,Furniture,North,125.75,4,31.44
+2023-02-13,Bed,Furniture,South,750.25,1,750.25
+2023-02-14,Desk,Furniture,East,275.50,2,137.75
+2023-02-15,Bookshelf,Furniture,West,180.99,1,180.99
+2023-02-16,Dresser,Furniture,North,320.25,1,320.25
+2023-02-17,Nightstand,Furniture,South,95.75,2,47.88
+2023-02-18,Lamp,Home Decor,East,45.50,3,15.17
+2023-02-19,Rug,Home Decor,West,120.25,1,120.25
+2023-02-20,Curtains,Home Decor,North,65.99,2,33.00
+2023-02-21,Pillow,Home Decor,South,25.50,5,5.10
+2023-02-22,Vase,Home Decor,East,35.75,2,17.88
+2023-02-23,Mirror,Home Decor,West,85.25,1,85.25
+2023-02-24,Clock,Home Decor,North,40.50,3,13.50
+2023-02-25,Candle,Home Decor,South,15.99,8,2.00
+2023-02-26,Refrigerator,Appliances,East,950.25,1,950.25
+2023-02-27,Microwave,Appliances,West,175.50,2,87.75
+2023-02-28,Blender,Appliances,North,65.75,3,21.92
+2023-03-01,Toaster,Appliances,South,45.25,4,11.31
+2023-03-02,Coffee Maker,Appliances,East,85.99,2,43.00
+2023-03-03,Vacuum,Appliances,West,150.50,1,150.50
+2023-03-04,Iron,Appliances,North,35.25,3,11.75
+2023-03-05,Kettle,Appliances,South,25.75,5,5.15
